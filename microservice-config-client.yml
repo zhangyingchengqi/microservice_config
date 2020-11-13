@@ -16,8 +16,8 @@ eureka:
   service-url:
     defaultZone: http://admin:a@localhost:7002/eureka
 info:
-  app.name: microservice-config-client-dev
-  company.name: yc
+  app.name: microservice-config-client-dev-updated
+  company.name: yc222
 ---
 server:
   port: 8102
