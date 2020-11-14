@@ -14,7 +14,7 @@ spring:
 eureka:
  client:
   service-url:
-    defaultZone: http://admin:a@localhost:7002/eureka
+    defaultZone: http://admin:a@localhost:7301/eureka
 info:
   app.name: microservice-config-client-dev-updated
   company.name: yc222
@@ -30,7 +30,7 @@ spring:
 eureka:
  client:
   service-url:
-    defaultZone: http://admin:a@localhost:7003/eureka
+    defaultZone: http://admin:a@localhost:7301/eureka
     
 info:
   app.name: microservice-config-client-beta
